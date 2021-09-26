@@ -1,0 +1,16 @@
+.nameSelected{
+    font-weight: 400;
+}
+.my-cart{
+    text-align: center;
+    background-color: #fcfafa;
+    border: 2px solid rgb(245, 187, 245);
+    margin: 15px;
+    grid-gap: 20px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+.selected-actors{
+    color: black;
+    font-weight: 600;
+}
